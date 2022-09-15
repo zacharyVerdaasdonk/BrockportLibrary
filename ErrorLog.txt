@@ -1,0 +1,433 @@
+[1/25/22 9:53 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:53 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:53 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:53 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:53 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:53 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:53 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:53 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:53 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:57 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:57 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:58 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:58 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:58 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:58 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:58 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 9:58 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 10:59 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 10:59 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 10:59 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 10:59 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 10:59 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 10:59 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 10:59 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 10:59 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/25/22 11:12 PM]|AssessmentCoordinator|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[1/27/22 1:17 PM]|AddSemesterTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/27/22 1:17 PM]|AddSemesterTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/27/22 1:17 PM]|AddSemesterTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/27/22 5:21 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[1/27/22 6:12 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[1/27/22 6:13 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[1/27/22 7:46 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[1/27/22 8:20 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[1/27/22 8:21 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[1/27/22 8:30 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[1/28/22 11:17 AM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[1/28/22 11:29 AM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[1/28/22 11:36 AM]|Semester|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'Fall' in 'where clause'>
+[1/28/22 11:36 AM]|Semester|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'Fall' in 'where clause'>
+[1/28/22 11:50 AM]|Semester|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'Fall' in 'where clause'>
+[1/28/22 11:55 AM]|Semester|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'Summer' in 'where clause'>
+[1/28/22 11:59 AM]|Semester|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'Fall' in 'where clause'>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:32 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:33 PM]|Semester|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'Fall' in 'where clause'>
+[1/28/22 12:33 PM]|Semester|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'Fall' in 'where clause'>
+[1/28/22 12:39 PM]|AddSemesterTransaction|processTransaction|Error|NOTAG|null<Semester: Fall already exists!>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:39 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:44 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:44 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:44 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:46 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:46 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:46 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 12:46 PM]|UpdateISLOTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[1/28/22 1:23 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[2/3/22 12:47 PM]|Book|insertAutoIncrementalPersistentState|Error|NOTAG|null<SQL Exception: 1364: Field 'bookId' doesn't have a default value>
+[2/3/22 12:48 PM]|Book|insertAutoIncrementalPersistentState|Error|NOTAG|null<SQL Exception: 1364: Field 'bookId' doesn't have a default value>
+[2/24/22 1:08 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:08 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:08 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:08 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:08 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:08 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:08 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:08 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:09 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:09 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:09 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:09 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 1:41 PM]|Book|insertAutoIncrementalPersistentState|Error|NOTAG|null<SQL Exception: 0: Data truncation: Data too long for column 'pubYear' at row 1>
+[2/24/22 2:46 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 2:46 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 2:46 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 2:46 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 2:46 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[2/24/22 4:16 PM]|Book|insertAutoIncrementalPersistentState|Error|NOTAG|null<SQL Exception: 0: Data truncation: Data too long for column 'pubYear' at row 1>
+[3/1/22 1:24 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:24 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:24 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:26 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:26 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:26 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:26 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:26 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:26 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:26 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:26 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:26 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:28 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/1/22 1:35 PM]|SearchBookTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/1/22 1:35 PM]|SearchBookTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/1/22 1:35 PM]|SearchBookTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/1/22 1:35 PM]|SearchBookTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/1/22 1:37 PM]|SearchBookTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/1/22 1:38 PM]|SearchBookTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/1/22 1:40 PM]|SearchBookTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/2/22 4:34 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException: Root cannot be null>
+[3/2/22 4:34 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException: Root cannot be null>
+[3/2/22 4:34 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException: Root cannot be null>
+[3/2/22 4:34 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException: Root cannot be null>
+[3/2/22 4:34 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException: Root cannot be null>
+[3/16/22 10:37 AM]|LibrarianMain|LibrarianCoordinator.<init>|Error|NOTAG|null<Unable to create Librarian object>
+[3/21/22 6:09 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'asdf' in 'where clause'>
+[3/21/22 6:11 PM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/21/22 6:11 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/21/22 6:11 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/21/22 6:15 PM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/21/22 6:23 PM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:06 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:07 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:09 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:10 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:15 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:20 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:25 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:27 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:28 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:30 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:30 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:43 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 11:50 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/22/22 12:02 PM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'h' in 'field list'>
+[3/22/22 12:17 PM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 'Test' , '' )' at line 1>
+[3/22/22 12:20 PM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1062: Duplicate entry '1' for key 'PRIMARY'>
+[3/23/22 2:44 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[3/23/22 2:46 PM]|BookCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'bookTitle' in 'where clause'>
+[3/23/22 2:46 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.Exception: No books found.>
+[3/23/22 2:46 PM]|BookCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'bookTitle' in 'where clause'>
+[3/23/22 2:46 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.Exception: No books found.>
+[3/23/22 2:48 PM]|BookCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'bookTitle' in 'where clause'>
+[3/23/22 2:48 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.Exception: No books found.>
+[3/23/22 2:50 PM]|BookCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'bookTitle' in 'where clause'>
+[3/23/22 2:50 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.Exception: No books found.>
+[3/23/22 2:51 PM]|BookCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'bookTitle' in 'where clause'>
+[3/23/22 2:51 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.Exception: No books found.>
+[3/23/22 3:02 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException: Root cannot be null>
+[3/23/22 3:02 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException: Root cannot be null>
+[3/23/22 3:04 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Children: duplicate children added: parent = Grid hgap=10.0, vgap=10.0, alignment=CENTER>
+[3/23/22 3:04 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Children: duplicate children added: parent = Grid hgap=10.0, vgap=10.0, alignment=CENTER>
+[3/23/22 3:04 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Children: duplicate children added: parent = Grid hgap=10.0, vgap=10.0, alignment=CENTER>
+[3/23/22 3:05 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Children: duplicate children added: parent = Grid hgap=10.0, vgap=10.0, alignment=CENTER>
+[3/23/22 3:05 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Children: duplicate children added: parent = Grid hgap=10.0, vgap=10.0, alignment=CENTER>
+[3/23/22 3:07 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Children: duplicate children added: parent = Grid hgap=10.0, vgap=10.0, alignment=CENTER>
+[3/23/22 3:07 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Children: duplicate children added: parent = Grid hgap=10.0, vgap=10.0, alignment=CENTER>
+[3/23/22 3:10 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Invalid URL: Invalid URL or resource not found>
+[3/23/22 3:10 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Invalid URL: Invalid URL or resource not found>
+[3/23/22 3:10 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/23/22 3:10 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/23/22 3:10 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/23/22 3:10 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/23/22 3:10 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/23/22 3:12 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Invalid URL: Invalid URL or resource not found>
+[3/23/22 3:13 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Invalid URL: Invalid URL or resource not found>
+[3/23/22 3:13 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Invalid URL: Invalid URL or resource not found>
+[3/23/22 3:14 PM]|SearchBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.IllegalArgumentException: Invalid URL: Invalid URL or resource not found>
+[3/24/22 11:40 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : 532 found.>
+[3/24/22 11:40 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : 532 found.>
+[3/24/22 11:40 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : null found.>
+[3/24/22 11:40 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : null found.>
+[3/24/22 11:46 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 11:46 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 11:46 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 11:46 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 11:47 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 11:48 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 11:52 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 11:52 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 11:53 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:07 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:07 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:07 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:08 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:09 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:10 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:10 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:13 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:13 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:15 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:15 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:15 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:15 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:15 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:16 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:16 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:16 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:16 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:16 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:16 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:17 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:17 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:17 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:17 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:17 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:20 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : 500001 found.>
+[3/24/22 12:20 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:21 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:21 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:21 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 12:21 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 1:10 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/24/22 1:10 PM]|InsertWorkerTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/24/22 1:10 PM]|InsertWorkerTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/24/22 1:10 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/24/22 1:10 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/24/22 1:30 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 1:30 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 1:31 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[3/24/22 2:42 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple accounts matching user id : 800943823 found.>
+[3/24/22 2:43 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple accounts matching user id : 800983983 found.>
+[3/27/22 7:58 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple accounts matching user id : 2 found.>
+[3/27/22 8:03 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple workers matching user id : 234 found.>
+[3/27/22 8:04 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple workers matching user id : 123 found.>
+[3/27/22 9:41 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple workers matching user id : 1324 found.>
+[3/27/22 9:42 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple workers matching user id : 12456 found.>
+[3/27/22 9:44 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple workers matching user id : 1234 found.>
+[3/27/22 9:46 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple workers matching user id : 1123 found.>
+[3/27/22 9:49 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.PasswordMismatchException: Password missing for account>
+[3/27/22 9:52 PM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.StringIndexOutOfBoundsException: String index out of range: 2>
+[3/28/22 9:57 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.StringIndexOutOfBoundsException: String index out of range: 2>
+[3/28/22 10:04 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.StringIndexOutOfBoundsException: String index out of range: 2>
+[3/28/22 10:04 AM]|BookBarcodePrefix|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as)' at line 1>
+[3/28/22 10:05 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.StringIndexOutOfBoundsException: String index out of range: 2>
+[3/28/22 10:06 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.StringIndexOutOfBoundsException: String index out of range: 2>
+[3/28/22 10:07 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.StringIndexOutOfBoundsException: String index out of range: 2>
+[3/28/22 10:08 AM]|InsertBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.StringIndexOutOfBoundsException: String index out of range: 2>
+[3/28/22 10:14 AM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '' , 'History' )' at line 1>
+[3/28/22 10:15 AM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '' , 'History' )' at line 1>
+[3/28/22 10:17 AM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '' , 'History' )' at line 1>
+[3/28/22 10:17 AM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '' , 'History' )' at line 1>
+[3/28/22 10:19 AM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' '' , 'History' )' at line 1>
+[3/28/22 10:19 AM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1062: Duplicate entry '50003' for key 'PRIMARY'>
+[3/28/22 10:20 AM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 'sdfa5' , 'History' )' at line 1>
+[3/28/22 10:20 AM]|Book|insertPersistentState|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 'sdfa5' , 'History' )' at line 1>
+[3/28/22 10:38 AM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple workers matching user id : 800874823 found.>
+[3/28/22 11:18 AM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/28/22 11:18 AM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[3/28/22 11:45 AM]|DeleteBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : null found.>
+[3/28/22 6:06 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: exception.InvalidPrimaryKeyException: Multiple workers matching BannerId : 800892321 found.>
+[3/28/22 6:11 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: java.lang.ArrayIndexOutOfBoundsException: 0 >= 0>
+[3/28/22 6:20 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: java.lang.NullPointerException>
+[3/28/22 6:21 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: java.lang.NullPointerException>
+[3/28/22 6:22 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: java.lang.NullPointerException>
+[3/28/22 6:31 PM]|InsertWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: java.lang.NullPointerException>
+[3/28/22 6:45 PM]|Worker|insertPersistentState|Error|NOTAG|null<SQL Exception: 1062: Duplicate entry '800111222' for key 'PRIMARY'>
+[3/29/22 11:44 AM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : 5000 found.>
+[3/30/22 7:38 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[3/30/22 7:40 PM]|ModifyStudentTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/30/22 7:40 PM]|DeleteStudentTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/30/22 7:40 PM]|ModifyWorkerTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/30/22 7:40 PM]|DeleteWorkerTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/30/22 7:40 PM]|ModifyStudentTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/30/22 7:41 PM]|ModifyStudentTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/30/22 7:41 PM]|DeleteStudentTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/30/22 7:41 PM]|ModifyWorkerTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/30/22 7:41 PM]|DeleteWorkerTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/30/22 7:41 PM]|ModifyStudentTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[3/31/22 12:51 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[3/31/22 12:51 PM]|JDBCBroker|JDBCBroker|Error|NOTAG|null<Could not load driver class[com.mysql.jdbc.Driver]>
+[3/31/22 1:25 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:25 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:25 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:25 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:26 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:28 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:28 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:30 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:31 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:32 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:33 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[3/31/22 1:34 PM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in deleting Student: exception.InvalidPrimaryKeyException: Multiple Student Borrowers matching Id : null found.>
+[4/5/22 5:23 PM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in deleting Student: exception.InvalidPrimaryKeyException: Multiple Student Borrowers matching Id : null found.>
+[4/5/22 6:24 PM]|ModifyWorkerTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[4/5/22 6:24 PM]|ModifyWorkerTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[4/5/22 6:24 PM]|ModifyWorkerTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[4/5/22 6:25 PM]|ModifyWorkerTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[4/5/22 6:26 PM]|ModifyWorkerTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[4/5/22 6:28 PM]|ModifyWorkerTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[4/5/22 6:29 PM]|ModifyWorkerTransaction|processTransaction|Error|NOTAG|null<Error in creating ModifyStudentView>
+[4/5/22 6:45 PM]|Worker|insertPersistentState|Error|NOTAG|null<SQL Exception: 1265: Data truncated for column 'Credentials' at row 1>
+[4/5/22 6:54 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : null found.>
+[4/5/22 11:34 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in deleting Student: java.lang.NullPointerException>
+[4/5/22 11:34 PM]|ModifyStudentTransaction|processTransaction|Error|NOTAG|null<Error in deleting Student: java.lang.NullPointerException>
+[4/5/22 11:34 PM]|ModifyWorkerTransaction|processTransaction|Error|NOTAG|null<Error in saving Worker: java.lang.NullPointerException>
+[4/6/22 1:13 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'a' in 'where clause'>
+[4/6/22 1:16 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'g' in 'where clause'>
+[4/6/22 1:16 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'g' in 'where clause'>
+[4/6/22 1:19 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1>
+[4/6/22 1:23 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1>
+[4/6/22 1:24 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1>
+[4/6/22 1:25 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1>
+[4/6/22 1:37 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'a' in 'where clause'>
+[4/6/22 1:37 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'a5' in 'where clause'>
+[4/6/22 1:45 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'a' in 'where clause'>
+[4/6/22 1:50 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'asdfg' in 'where clause'>
+[4/6/22 1:50 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'asdfg' in 'where clause'>
+[4/6/22 1:52 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : 1234 found.>
+[4/6/22 2:01 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[4/6/22 2:01 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[4/6/22 2:04 PM]|Book|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'asdfs' in 'where clause'>
+[4/6/22 2:04 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: No book matching barcode : asdfs found.>
+[4/6/22 3:57 PM]|Worker|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column 'sasdf' in 'where clause'>
+[4/6/22 4:05 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : 50012 found.>
+[4/6/22 4:06 PM]|Book|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1054: Unknown column '50012hhhh' in 'where clause'>
+[4/6/22 4:06 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: No book matching barcode : 50012hhhh found.>
+[4/6/22 4:06 PM]|ModifyBookTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: exception.InvalidPrimaryKeyException: Multiple books matching barcode : 50012 found.>
+[4/6/22 4:49 PM]|Worker|updatePersistentState|Error|NOTAG|null<SQL Exception: 0: Data truncation: Data too long for column 'Phone' at row 1>
+[4/7/22 11:37 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:37 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:37 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:37 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:37 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:37 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:38 AM]|DeleteWorkerTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteWorkerView>
+[4/7/22 11:38 AM]|DeleteWorkerTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteWorkerView>
+[4/7/22 11:38 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:38 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:38 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:38 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:38 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/7/22 11:38 AM]|DeleteStudentTransaction|processTransaction|Error|NOTAG|null<Error in creating DeleteStudentView>
+[4/14/22 12:14 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[4/14/22 12:14 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[4/14/22 12:15 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[4/14/22 12:15 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[4/14/22 12:15 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[4/14/22 12:15 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[4/14/22 12:28 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in saving Book: java.lang.NullPointerException>
+[4/14/22 12:29 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:31 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:32 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:33 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:33 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:34 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:34 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:36 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:37 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:39 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:39 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-14' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/14/22 12:39 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.Exception: No rental files found.>
+[4/14/22 12:41 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-14' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/14/22 12:41 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.NullPointerException>
+[4/14/22 12:41 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-14' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/14/22 12:41 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.Exception: No rental files found.>
+[4/14/22 12:46 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-14' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/14/22 12:46 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.Exception: No rental files found.>
+[4/14/22 12:48 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-14' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/14/22 12:48 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.Exception: No rental files found.>
+[4/14/22 12:49 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-14' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/14/22 12:49 PM]|RunDelinquencyCheckTransaction|processTransaction|Error|NOTAG|null<Error in running delinquency check: java.lang.Exception: No rental files found.>
+[4/14/22 12:49 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-14' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/14/22 2:58 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-14' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/19/22 12:41 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[4/19/22 12:41 PM]|Librarian|createTransaction|Error|NOTAG|null<Transaction Creation Failure: Unrecognized transaction java.lang.NullPointerException>
+[4/19/22 12:48 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in retrieving Student: java.lang.NullPointerException>
+[4/19/22 12:48 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in retrieving Student: java.lang.NullPointerException>
+[4/19/22 12:59 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in retrieving Student: java.lang.NullPointerException>
+[4/19/22 12:59 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in retrieving Student: java.lang.NullPointerException>
+[4/19/22 12:59 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in retrieving Student: java.lang.NullPointerException>
+[4/19/22 1:00 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in retrieving Student: java.lang.NullPointerException>
+[4/21/22 12:51 PM]|BooksCheckedOutTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[4/21/22 12:51 PM]|BooksCheckedOutTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[4/21/22 12:51 PM]|StudentsWithBooksCheckedOutTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[4/21/22 12:54 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/21/22 12:54 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/21/22 12:55 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-21' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/21/22 1:03 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/21/22 1:40 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in finding Book: java.lang.NullPointerException: Root cannot be null>
+[4/21/22 1:40 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in finding Book: java.lang.NullPointerException: Root cannot be null>
+[4/21/22 1:41 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in finding Book: java.lang.NullPointerException: Root cannot be null>
+[4/21/22 1:42 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in finding Book: java.lang.NullPointerException: Root cannot be null>
+[4/21/22 1:43 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in finding Book: java.lang.NullPointerException: Root cannot be null>
+[4/21/22 1:45 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in finding Book: java.lang.NullPointerException: Root cannot be null>
+[4/21/22 1:45 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in finding Book: java.lang.NullPointerException: Root cannot be null>
+[4/21/22 1:47 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in finding Book: java.lang.NullPointerException: Root cannot be null>
+[4/21/22 1:59 PM]|CheckOutBookTransaction|processTransaction|Error|NOTAG|null<Error in finding Book: java.lang.NullPointerException: Root cannot be null>
+[4/21/22 2:04 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-21' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/21/22 2:06 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-21' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/21/22 2:06 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-21' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/21/22 2:07 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-21' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/21/22 2:07 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< '2022-04-21' AND ((CheckinDate IS NULL) OR (CheckinDate = ''))' at line 1>
+[4/21/22 2:10 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '((DueDate < '2022-04-21') AND ((CheckinDate IS NULL) OR (CheckinDate = '')))' at line 1>
+[4/21/22 2:13 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '((DueDate < '2022-04-21') AND ((CheckinDate IS NULL) OR (CheckinDate = '')))' at line 1>
+[4/21/22 2:14 PM]|RentalCollection|getSelectQueryResult|Error|NOTAG|null<SQL Exception: 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '((DueDate < CURRENT_DATE) AND ((CheckinDate IS NULL) OR (CheckinDate = '')))' at line 1>
+[4/26/22 1:28 PM]|BooksCheckedOutTransaction|processTransaction|Error|NOTAG|null<Error in listing books checked out: java.lang.NullPointerException: Root cannot be null>
+[4/26/22 1:32 PM]|BooksCheckedOutTransaction|processTransaction|Error|NOTAG|null<Error in listing books checked out: java.lang.NullPointerException: Root cannot be null>
+[4/26/22 6:56 PM]|StudentsWithBooksCheckedOutTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[4/26/22 6:56 PM]|StudentsWithBooksCheckedOutTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[4/26/22 6:56 PM]|StudentsWithBooksCheckedOutTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
+[4/26/22 6:56 PM]|StudentsWithBooksCheckedOutTransaction|Transaction|Error|NOTAG|null<Error in creating Transaction view>
